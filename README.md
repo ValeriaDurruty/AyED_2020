@@ -40,7 +40,8 @@ gcc paqueteria.c -o paqueteria
 gcc estacionamiento.c -o estacionamiento
 ./paqueteria
 ./estacionamiento
+```
 
-##   Autor
+## Autor
 
 Valeria E. Durruty
